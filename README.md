@@ -82,17 +82,9 @@ N/A
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=11164936355&cover_image=true&theme=default&show_offline=false&background_color=000000&bar_color=72a970&bar_color_cover=true" /></div>  
 
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
