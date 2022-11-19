@@ -7,7 +7,7 @@
 ### <div align="center">Hi, I'm Jurre. A software developer student👨‍💻</div>  
   
 
-- 🔭 I’m currently working on [FIA Sumulator](https://github.com/SPJurreX/FIA-Simulator)  
+- 🔭 I’m currently working on N/A
   
 
 - 🌱 Currently I'am learning Javascript & C# (Unity)  
