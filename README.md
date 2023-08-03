@@ -10,7 +10,7 @@
 - 🔭 I’m currently working on N/A
   
 
-- 🌱 Currently I'am learning Javascript & C# (Unity)  
+- 🌱 Currently I'am learning Laravel
   
 
 - ❓ Contact me at: jurre.poelman@gmail.com  
